@@ -1,0 +1,67 @@
+
+.view-request-container {
+    margin: 10px;
+    list-style-type: none;
+
+}
+
+.details-container {
+    background-color: lightblue;
+    list-style-type: none;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.text-content {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.profile-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.name {
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.msg-heading {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px;
+}
+
+.message-container {
+    background-color: #ffffff;
+    width: 800px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.message {
+    margin: 10px;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+}
+.date{
+    font-weight: 700;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+.button{
+    margin: 10px;
+    
+}

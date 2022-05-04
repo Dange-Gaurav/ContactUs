@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.form-heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.error-message {
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.view-request-container {
+    margin: 10px;
+}
+
+.details-container {
+    background-color: lightblue;
+    list-style-type: none;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.text-content {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.profile-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.name {
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.msg-heading {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px;
+}
+
+.message-container {
+    background-color: #ffffff;
+    width: 800px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.message {
+    margin: 10px;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+}
